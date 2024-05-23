@@ -1,2 +1,3 @@
-<h1>Ransomeware</h1>
-<p>Un pequeño proyecto en el cual se emula la funcionalidad de un ransomeware, encriptando archivos y con la disponibilidad de la llave para rescatar los mismos.</p>
+<h1>Security Python proyects</h1>
+<p>Pequeños proyectos de python que son aplicables al campo de cyberseguridad.</p>
+<p>Small python projects that are applicable to the cybersecurity field.</p>
